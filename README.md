@@ -1,2 +1,2 @@
 # actions-linter-test
-Just a repo for testing github actions
+Just a repository for testing github actions
